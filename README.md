@@ -9,5 +9,5 @@ The default training data is going to teach the Neural Network to figure out an 
 You can modify it to take different numbers and different targets if you want.
 
 ## Sources
-[But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+[But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)<br>
 [What is a Neural Network](https://www.youtube.com/watch?v=bfmFfD2RIcg&t=166s)
